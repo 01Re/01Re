@@ -1,16 +1,28 @@
-## Hi there 👋
+## Obrigado por ter a curiosidade de entrar aqui =D
 
-<!--
-**01Re/01Re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formado em Odontologia com pós graduação em Cientista de Dados.
 
-Here are some ideas to get you started:
+Minha jornada com dados começou em um momento desafiador: a clínica onde trabalho foi impedida judicialmente de fazer propagandas, após a dissolução da sociedade dos diretores. Com 4 anos de experiência como dentista avaliador, busquei soluções na própria base de dados da clínica — 10 anos de histórico. O resultado? Mesmo sem captar novos pacientes, conseguimos atravessar a crise batendo metas e mantendo um faturamento de **R$ 300 mil mensais**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 Atualmente:
+- 🔭 Trabalho como **Dentista Avaliador na Ultra Implantes**
+- 🎯 Uso dados para **aumentar faturamento** e **melhorar atendimento**
+- 📊 Estou estudando **Python e Ciência de Dados**
+
+---
+
+### 🤝 Busco por:
+- Colaborar em projetos de **Data Science** e **Análise de Dados**
+- Trocar ideias e aprender mais sobre Python e SQL
+
+---
+
+### 📫 Onde me encontrar:
+- 🎥 [Instagram](https://instagram.com/lisboarenatoo/) – conteúdo e bastidores
+- 💼 [LinkedIn](https://www.linkedin.com/in/renatolisboadesouza/) – trajetória profissional
+
+---
+
+> “Curioso e inquieto. Busco nos dados um propósito.”
