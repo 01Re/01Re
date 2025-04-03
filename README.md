@@ -2,7 +2,7 @@
 
 Sou formado em Odontologia com pós graduação em Cientista de Dados.
 
-Minha jornada com dados começou em um momento desafiador: a clínica onde trabalho foi impedida judicialmente de fazer propagandas, após a dissolução da sociedade dos diretores. Com 4 anos de experiência como dentista avaliador, busquei soluções na própria base de dados da clínica — 10 anos de histórico. O resultado? Mesmo sem captar novos pacientes, conseguimos atravessar a crise batendo metas e mantendo um faturamento de **R$ 300 mil mensais**.
+Minha jornada com dados começou em um momento desafiador: a clínica onde trabalho foi impedida judicialmente de fazer propagandas, após a dissolução da sociedade dos diretores. Com 4 anos de experiência como dentista avaliador, busquei soluções na própria base de dados da clínica — 10 anos de histórico. O resultado? Mesmo sem captar novos pacientes, conseguimos atravessar a crise batendo metas e mantendo um faturamento médio de **R$ 300 mil mensais**.
 
 ---
 
